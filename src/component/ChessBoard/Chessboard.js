@@ -1,5 +1,5 @@
 import React from 'react';  
-import '../component/Chessboard.css'
+import '../ChessBoard/Chessboard.css'
 import Tile from './Tile';
 // import Pawn from '../component/pieces/pawn_w.png'
 
