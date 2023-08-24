@@ -19,7 +19,7 @@ const ENUM_PAWN_TYPE =
 };
 
 
-function Pawns({pawnType, image}) 
+function Pawns({pawnType}) 
 {
    return ENUM_PAWN_TYPE[pawnType]
 }
